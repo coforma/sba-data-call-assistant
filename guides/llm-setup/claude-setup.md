@@ -24,6 +24,13 @@ To use this assistant, you must create a custom **Project**. This feature is ava
 
 ---
 
+### **Example Configuration**
+
+![Configured Claude Project](../images/claude-configured.png)
+*The configured SBA Data Call Prep Assistant showing the instructions and knowledge files*
+
+---
+
 ## **Project System Instructions**
 
 ```

@@ -68,6 +68,13 @@ Try a sample prompt such as:
 
 Your Copilot is now ready for use.
 
+<!-- ---
+
+### **Example Configuration**
+
+![Configured Microsoft Copilot](../images/copilot-configured.png)
+*The configured SBA Data Call Prep Assistant showing the instructions and knowledge sources* -->
+
 ---
 
 ## **Using Your Assistant**

@@ -32,6 +32,13 @@ Click **Upload files**. Upload the PDFs provided in your request (such as the 8a
 
 ---
 
+### **Example Configuration**
+
+![Configured ChatGPT Assistant](../images/chatgpt-configured.png)
+*The configured SBA Data Call Prep Assistant showing the instructions and knowledge files*
+
+---
+
 ## **ChatGPT System Instructions**
 
 ```

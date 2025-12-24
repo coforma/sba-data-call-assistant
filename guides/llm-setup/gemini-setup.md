@@ -26,6 +26,13 @@ To use this assistant, you must create a custom **Gem**. This feature is availab
 
 ---
 
+### **Example Configuration**
+
+![Configured Gemini Gem](../images/gemini-configured.png)
+*The configured SBA Data Call Prep Assistant showing the instructions and knowledge files*
+
+---
+
 ## **Using Your Assistant**
 
 Once saved, the Assistant will appear in your sidebar. To get the best results, start your first session by providing your specific company details:

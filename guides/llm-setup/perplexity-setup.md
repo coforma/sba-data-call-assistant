@@ -49,7 +49,12 @@
   * Proposes a Data Call Tracker table with the right columns.
   * Gives item-by-item guidance (e.g., "General Ledger – last 3 full fiscal years (CSV only)") and QC steps when you ask.
 * Adjust the **System Prompt** language if the behavior isn’t specific or strict enough, then retest until the **Space** behaves like your ideal SBA Data Call Prep assistant.
+---
 
+### **Example Configuration**
+
+![Configured Perplexity Space](../images/perplexity-configured.png)
+*The configured SBA Data Call Prep Assistant showing the instructions and reference files*
 --- 
 
 ## **Perplexity System Instructions**
