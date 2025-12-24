@@ -24,7 +24,7 @@
 * Confirm that the **Space** is allowed to use these files as background reference when answering questions.  
 * Optionally tag or rename the files with clear titles like "8a Data Call Q&A 12-18-2025" so they are easy to recognize later.
 
-###  **Step 4: Set Behavior and Permissions**
+###  **Step 4: Add Reference Links**
 
 * In the Space configuration, locate the Links section.
   * [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program)
@@ -50,7 +50,7 @@
   * Gives item-by-item guidance (e.g., "General Ledger – last 3 full fiscal years (CSV only)") and QC steps when you ask.
 * Adjust the **System Prompt** language if the behavior isn’t specific or strict enough, then retest until the **Space** behaves like your ideal SBA Data Call Prep assistant.
 
-## ---
+--- 
 
 ## **Perplexity System Instructions**
 

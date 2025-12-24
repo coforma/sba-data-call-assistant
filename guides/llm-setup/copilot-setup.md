@@ -14,51 +14,41 @@ To use this assistant, you will create a **custom Copilot** inside Microsoft Cop
 
 ### **Step 2: Configure Your Copilot**
 
-#### **Name**
+1. **Name** Enter: **SBA Data Call Prep Assistant**
 
-Enter: **SBA Data Call Prep Assistant**
+2. **Description** Add a short description such as: *“A compliance and document‑prep assistant that helps small businesses prepare SBA 8(a) audit data‑call submissions, validate documents, and build a Data Call Tracker.”*
 
-#### **Description**
+3. **Instructions (System Prompt)** In the **Instructions** or **System Message** field, paste the full system prompt you created earlier (the complete system instructions defining behavior, workflow, validation rules, and Exhibits A–C).
 
-Add a short description such as:
+   This is the core logic that tells the Copilot how to:
 
-*“A compliance and document‑prep assistant that helps small businesses prepare SBA 8(a) audit data‑call submissions, validate documents, and build a Data Call Tracker.”*
+   * Ask for fiscal year‑end, accounting basis, accounting system, and SBA request language
 
-#### **Instructions (System Prompt)**
+   * Build a Data Call Tracker
 
-In the **Instructions** or **System Message** field, paste the full system prompt you created earlier (the complete system instructions defining behavior, workflow, validation rules, and Exhibits A–C).
+   * Provide field‑level guidance for each Exhibit A item
 
-This is the core logic that tells the Copilot how to:
+   * Run validation and reconciliation checks
 
-* Ask for fiscal year‑end, accounting basis, accounting system, and SBA request language
+   * Analyze uploaded CSV/PDF excerpts
 
-* Build a Data Call Tracker
+   * Produce readiness summaries and punch lists
 
-* Provide field‑level guidance for each Exhibit A item
+4. **Knowledge Sources (Optional but Recommended)** In the **Knowledge** or **Add Data** section:
 
-* Run validation and reconciliation checks
+   1. Click **Add data source**.
 
-* Analyze uploaded CSV/PDF excerpts
+   2. Upload any PDFs or documents you want the Copilot to reference, such as:
 
-* Produce readiness summaries and punch lists
+      * SBA request letters
 
-#### **Knowledge Sources (Optional but Recommended)**
+      * 8(a) Data Call Q&A documents
 
-In the **Knowledge** or **Add Data** section:
+      * Internal SOPs
 
-1. Click **Add data source**.
+      * Policy summaries
 
-2. Upload any PDFs or documents you want the Copilot to reference, such as:
-
-   * SBA request letters
-
-   * 8(a) Data Call Q&A documents
-
-   * Internal SOPs
-
-   * Policy summaries
-
-3. Publish the knowledge source so the Copilot can use it during conversations.
+   3. Publish the knowledge source so the Copilot can use it during conversations.
 
 This strengthens grounding and improves accuracy when users ask about SBA requirements.
 
