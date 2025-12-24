@@ -11,10 +11,10 @@
 
 * In the **Space** settings, find the **System Prompt** or Instructions area.  
 * Paste the full “System Prompt” block you’ve prepared for the SBA Data Call Prep Assistant into that box.  
-* Make sure the instructions clearly state:  
-  * The Space focuses on SBA 8(a) Data Call and document-prep support.  
-  * It is not providing legal advice.  
-  * It should always ask for the SBA letter, fiscal year-end, accounting basis, software, and entity/JV structure.  
+* Make sure the instructions clearly state:
+  * The Space focuses on SBA 8(a) Data Call and document-prep support.
+  * It is not providing legal advice.
+  * It should always ask for the SBA letter, fiscal year-end, accounting basis, software, and entity/JV structure.
   * It must help build and maintain a Data Call Tracker table and apply the validation rules for GL, TB, financial statements, bank recs, payroll, vendors, contracts, and subledgers.
 
 ###  **Step 3: Attach Reference Files**
@@ -22,16 +22,16 @@
 * In the **Space** configuration, locate the **Files**, **Knowledge**, or **Reference** documents section.  
 * Upload your key PDFs (for example, your SBA 8(a) Data Call Q\&A and any CRS/SBA guidance you want available).  
 * Confirm that the **Space** is allowed to use these files as background reference when answering questions.  
-* Optionally tag or rename the files with clear titles like “8a Data Call Q\&A 12-18-2025” so they are easy to recognize later.
+* Optionally tag or rename the files with clear titles like "8a Data Call Q&A 12-18-2025" so they are easy to recognize later.
 
 ###  **Step 4: Set Behavior and Permissions**
 
-* In the Space configuration, locate the Links section.  
-  * [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program)   
-  * [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program/updates-8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program/updates-8a-business-development-program)   
-  * [https://www.congress.gov/crs-product/R48190](https://www.congress.gov/crs-product/R48190)   
-  * [https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view](https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view)   
-  * [https://home.treasury.gov/news/press-releases/sb0309](https://home.treasury.gov/news/press-releases/sb0309)   
+* In the Space configuration, locate the Links section.
+  * [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program)
+  * [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program/updates-8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program/updates-8a-business-development-program)
+  * [https://www.congress.gov/crs-product/R48190](https://www.congress.gov/crs-product/R48190)
+  * [https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view](https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view)
+  * [https://home.treasury.gov/news/press-releases/sb0309](https://home.treasury.gov/news/press-releases/sb0309)
   * [https://www.sba.gov/article/2025/06/27/administrator-loeffler-orders-full-scale-audit-8a-contracting-program](https://www.sba.gov/article/2025/06/27/administrator-loeffler-orders-full-scale-audit-8a-contracting-program) 
 
 ###  **Step 5: Set Behavior and Permissions**
@@ -43,11 +43,11 @@
 ###  **Step 6: Test the Space as a User**
 
 * Open the **Space** and start a new conversation.  
-* Paste a sample SBA 8(a) Data Call letter or a simplified version of Exhibit A.  
-* Verify that the Space:  
-  * Asks for fiscal year-end, accounting basis, accounting software, and entities/JVs.  
-  * Proposes a Data Call Tracker table with the right columns.  
-  * Gives item-by-item guidance (e.g., “General Ledger – last 3 full fiscal years (CSV only)”) and QC steps when you ask.  
+* Paste a sample SBA 8(a) Data Call letter or a simplified version of Exhibit A.
+* Verify that the Space:
+  * Asks for fiscal year-end, accounting basis, accounting software, and entities/JVs.
+  * Proposes a Data Call Tracker table with the right columns.
+  * Gives item-by-item guidance (e.g., "General Ledger – last 3 full fiscal years (CSV only)") and QC steps when you ask.
 * Adjust the **System Prompt** language if the behavior isn’t specific or strict enough, then retest until the **Space** behaves like your ideal SBA Data Call Prep assistant.
 
 ## ---

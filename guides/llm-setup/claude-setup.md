@@ -6,15 +6,15 @@ To use this assistant, you must create a custom **Project**. This feature is ava
 
 1. Go to [https://claude.ai/projects](https://claude.ai/projects) 
 
-2. At the top right, click **\+New Project**.
+2. At the top right, click **+New Project**.
 
 3. Name your project and give it a description.
 
 ### **Step 2: Configure Your Project**
 
-1. **Instructions:** Click the \+ icon in the instructions box, then Copy and paste the system instructions (provided below) in the prompt into the text box and save.
+1. **Instructions:** Click the + icon in the instructions box, then Copy and paste the system instructions (provided below) in the prompt into the text box and save.
 
-2. **Knowledge (Optional but Recommended):** Click the \+ icon in the Files box. Upload the PDFs provided in your request (such as the 8aDataCallQA\_20251218.pdf and R44844.16.pdf) so the Project can reference specific SBA rules and the 2025 Q\&A document.
+2. **Knowledge (Optional but Recommended):** Click the + icon in the Files box. Upload the PDFs provided in your request (such as the 8aDataCallQA_20251218.pdf and R44844.16.pdf) so the Project can reference specific SBA rules and the 2025 Q&A document.
 
 ### **Step 3: Save and Test**
 

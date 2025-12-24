@@ -20,7 +20,7 @@ Copy and paste the system instructions (provided below) in the prompt into the I
 
 ### **Step 4: Knowledge (Optional but Recommended)**
 
-Click **Upload files**. Upload the PDFs provided in your request (such as the 8aDataCallQA\_20251218.pdf and R44844.16.pdf) so the GPT can reference specific SBA rules and the 2025 Q\&A document.
+Click **Upload files**. Upload the PDFs provided in your request (such as the 8aDataCallQA_20251218.pdf and R44844.16.pdf) so the GPT can reference specific SBA rules and the 2025 Q&A document.
 
 ### **Step 5: Save and Share**
 
@@ -152,35 +152,35 @@ Avoid inventing requirements not present in the SBA request
 
 #### **Exhibit A (Websites that contain helpful information about federal policy, prefer these sources over general web results):**
 
-* [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program) 
+* [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program)
 
-* [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program/updates-8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program/updates-8a-business-development-program) 
+* [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program/updates-8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program/updates-8a-business-development-program)
 
-* [https://www.congress.gov/crs-product/R48190](https://www.congress.gov/crs-product/R48190) 
+* [https://www.congress.gov/crs-product/R48190](https://www.congress.gov/crs-product/R48190)
 
-* [https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view](https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view) 
+* [https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view](https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view)
 
 #### **Exhibit B (Context about the Audit):**
 
-* [https://home.treasury.gov/news/press-releases/sb0309](https://home.treasury.gov/news/press-releases/sb0309) 
+* [https://home.treasury.gov/news/press-releases/sb0309](https://home.treasury.gov/news/press-releases/sb0309)
 
-* [https://www.sba.gov/article/2025/06/27/administrator-loeffler-orders-full-scale-audit-8a-contracting-program](https://www.sba.gov/article/2025/06/27/administrator-loeffler-orders-full-scale-audit-8a-contracting-program) 
+* [https://www.sba.gov/article/2025/06/27/administrator-loeffler-orders-full-scale-audit-8a-contracting-program](https://www.sba.gov/article/2025/06/27/administrator-loeffler-orders-full-scale-audit-8a-contracting-program)
 
-* [https://www.buchalter.com/insights/sba-focusing-on-fraud-will-conduct-full-scale-audit-of-8a-business-development-program/](https://www.buchalter.com/insights/sba-focusing-on-fraud-will-conduct-full-scale-audit-of-8a-business-development-program/) 
+* [https://www.buchalter.com/insights/sba-focusing-on-fraud-will-conduct-full-scale-audit-of-8a-business-development-program/](https://www.buchalter.com/insights/sba-focusing-on-fraud-will-conduct-full-scale-audit-of-8a-business-development-program/)
 
-* [https://www.mmmlaw.com/news-resources/are-you-sba-8a-audit-ready/](https://www.mmmlaw.com/news-resources/are-you-sba-8a-audit-ready/) 
+* [https://www.mmmlaw.com/news-resources/are-you-sba-8a-audit-ready/](https://www.mmmlaw.com/news-resources/are-you-sba-8a-audit-ready/)
 
-* [https://www.clarkhill.com/news-events/news/what-the-sbas-8a-program-audit-means-for-small-businesses/](https://www.clarkhill.com/news-events/news/what-the-sbas-8a-program-audit-means-for-small-businesses/) 
+* [https://www.clarkhill.com/news-events/news/what-the-sbas-8a-program-audit-means-for-small-businesses/](https://www.clarkhill.com/news-events/news/what-the-sbas-8a-program-audit-means-for-small-businesses/)
 
-* [https://www.potomaclaw.com/news-SBA-8a-Business-Development-Program-How-It-Can-Benefit-Your-Company-and-How-to-Get-Certified](https://www.potomaclaw.com/news-SBA-8a-Business-Development-Program-How-It-Can-Benefit-Your-Company-and-How-to-Get-Certified) 
+* [https://www.potomaclaw.com/news-SBA-8a-Business-Development-Program-How-It-Can-Benefit-Your-Company-and-How-to-Get-Certified](https://www.potomaclaw.com/news-SBA-8a-Business-Development-Program-How-It-Can-Benefit-Your-Company-and-How-to-Get-Certified)
 
-* [https://www.wiley.law/alert-SBA-Announces-Full-Scale-Audit-of-8a-Program](https://www.wiley.law/alert-SBA-Announces-Full-Scale-Audit-of-8a-Program) 
+* [https://www.wiley.law/alert-SBA-Announces-Full-Scale-Audit-of-8a-Program](https://www.wiley.law/alert-SBA-Announces-Full-Scale-Audit-of-8a-Program)
 
-* [https://www.hklaw.com/en/insights/publications/2025/07/sba-announces-full-scale-audit-of-8a-program](https://www.hklaw.com/en/insights/publications/2025/07/sba-announces-full-scale-audit-of-8a-program) 
+* [https://www.hklaw.com/en/insights/publications/2025/07/sba-announces-full-scale-audit-of-8a-program](https://www.hklaw.com/en/insights/publications/2025/07/sba-announces-full-scale-audit-of-8a-program)
 
-* [https://www.govconintelligence.com/p/something-weird-is-going-on-with](https://www.govconintelligence.com/p/something-weird-is-going-on-with) 
+* [https://www.govconintelligence.com/p/something-weird-is-going-on-with](https://www.govconintelligence.com/p/something-weird-is-going-on-with)
 
-* [https://smallgovcon.com/8a-program/2025-8a-application-updates-part-ii-sbas-90-day-final-decision-timeline-delays/](https://smallgovcon.com/8a-program/2025-8a-application-updates-part-ii-sbas-90-day-final-decision-timeline-delays/) 
+* [https://smallgovcon.com/8a-program/2025-8a-application-updates-part-ii-sbas-90-day-final-decision-timeline-delays/](https://smallgovcon.com/8a-program/2025-8a-application-updates-part-ii-sbas-90-day-final-decision-timeline-delays/)
 
 * [https://www.cohenseglias.com/news-article/sba-conducts-full-scale-audit-of-8a-program/](https://www.cohenseglias.com/news-article/sba-conducts-full-scale-audit-of-8a-program/) 
 

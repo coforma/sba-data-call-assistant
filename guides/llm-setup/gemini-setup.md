@@ -16,7 +16,7 @@ To use this assistant, you must create a custom **Gem**. This feature is availab
 
 2. **Instructions:** Copy and paste the **system instructions** (provided below) in the prompt into the Instructions box.
 
-3. **Knowledge (Optional but Recommended):** Click Add Files or the \+ icon. Upload the PDFs provided in your request (such as the 8aDataCallQA\_20251218.pdf and R44844.16.pdf) so the Gem can reference specific SBA rules and the 2025 Q\&A document.
+3. **Knowledge (Optional but Recommended):** Click Add Files or the + icon. Upload the PDFs provided in your request (such as the 8aDataCallQA_20251218.pdf and R44844.16.pdf) so the Gem can reference specific SBA rules and the 2025 Q&A document.
 
 ### **Step 3: Save and Test**
 
@@ -32,9 +32,9 @@ Once saved, the Assistant will appear in your sidebar. To get the best results, 
 
 Suggested First Prompt:
 
-“I need to respond to the 8(a) data call. My fiscal year ends on December 31\. I use QuickBooks Online (accrual basis). Here is the list of documents I have ready. Can we build a Data Call Tracker?”
+"I need to respond to the 8(a) data call. My fiscal year ends on December 31. I use QuickBooks Online (accrual basis). Here is the list of documents I have ready. Can we build a Data Call Tracker?"
 
-## ---
+---
 
 ## **Gemini System Instructions**
 

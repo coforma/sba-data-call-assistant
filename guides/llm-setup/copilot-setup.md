@@ -10,7 +10,7 @@ To use this assistant, you will create a **custom Copilot** inside Microsoft Cop
 
 3. In the left‑hand navigation menu, select **Copilots**.
 
-4. Click **\+New Copilot**.
+4. Click **+New Copilot**.
 
 ### **Step 2: Configure Your Copilot**
 
@@ -52,7 +52,7 @@ In the **Knowledge** or **Add Data** section:
 
    * SBA request letters
 
-   * 8(a) Data Call Q\&A documents
+   * 8(a) Data Call Q&A documents
 
    * Internal SOPs
 
@@ -88,7 +88,7 @@ To get the best results, start your first session by providing your company‑sp
 
 ### **Suggested First Prompt**
 
-“I need to respond to the 8(a) data call. My fiscal year ends on December 31\. I use QuickBooks Online (accrual basis). Here is the list of documents I have ready. Can we build a Data Call Tracker?”
+"I need to respond to the 8(a) data call. My fiscal year ends on December 31. I use QuickBooks Online (accrual basis). Here is the list of documents I have ready. Can we build a Data Call Tracker?"
 
 This gives the assistant the context it needs to begin mapping your documents to the SBA request and running validation checks.
 

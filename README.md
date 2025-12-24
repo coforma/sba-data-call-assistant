@@ -33,10 +33,13 @@ This assistant functions as a pre-submission quality-control and organization to
 sba-data-call-assistant/
 ├── guides/
 │   ├── sba-data-call-prep-assistant.md    # Main assistant guide
-│   └── llm-setup/                          # LLM-specific setup instructions (coming soon)
-│       ├── chatgpt-setup.md
-│       ├── claude-setup.md
-│       └── gemini-setup.md
+│   └── llm-setup/                          # LLM-specific setup instructions
+│       ├── chatgpt-setup.md                # ChatGPT custom GPT setup
+│       ├── claude-setup.md                 # Claude Projects setup
+│       ├── copilot-setup.md                # Microsoft Copilot Studio setup
+│       ├── gemini-setup.md                 # Google Gemini setup
+│       └── perplexity-setup.md             # Perplexity Spaces setup
+├── reference_documents/                    # Supporting PDFs and reference materials
 ├── LICENSE
 └── README.md
 ```
@@ -44,7 +47,12 @@ sba-data-call-assistant/
 ## Getting Started
 
 1. **Read the main guide**: Start with [`guides/sba-data-call-prep-assistant.md`](guides/sba-data-call-prep-assistant.md) to understand the full process
-2. **Choose your LLM**: Follow the setup instructions for your preferred AI platform (guides coming soon)
+2. **Choose your LLM**: Follow the setup instructions for your preferred AI platform:
+   - [ChatGPT Setup](guides/llm-setup/chatgpt-setup.md) - Custom GPT configuration
+   - [Claude Setup](guides/llm-setup/claude-setup.md) - Claude Projects configuration
+   - [Microsoft Copilot Setup](guides/llm-setup/copilot-setup.md) - Copilot Studio configuration
+   - [Google Gemini Setup](guides/llm-setup/gemini-setup.md) - Gemini Gems configuration
+   - [Perplexity Setup](guides/llm-setup/perplexity-setup.md) - Perplexity Spaces configuration
 3. **Prepare your documents**: Gather your financial records, payroll data, and banking statements
 4. **Work through the checklist**: Use the assistant to validate each required item before submission
 
