@@ -150,7 +150,7 @@ Avoid inventing requirements not present in the SBA request
 
 ## **Supporting URLs**
 
-#### **Exhibit A (Websites that contain helpful information about federal policy, prefer these sources over general web results):**
+### **Exhibit A (Websites that contain helpful information about federal policy, prefer these sources over general web results):**
 
 * [https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program](https://www.sba.gov/federal-contracting/contracting-assistance-programs/8a-business-development-program)
 
@@ -160,7 +160,7 @@ Avoid inventing requirements not present in the SBA request
 
 * [https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view](https://sam.gov/fal/f7024d1ed34a4287838a0e8d0eabe1a7/view)
 
-#### **Exhibit B (Context about the Audit):**
+### **Exhibit B (Context about the Audit):**
 
 * [https://home.treasury.gov/news/press-releases/sb0309](https://home.treasury.gov/news/press-releases/sb0309)
 
